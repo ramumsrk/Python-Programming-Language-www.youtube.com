@@ -1,0 +1,93 @@
+2024-10-27 19:39:08 IST +0530 - root - DEBUG - Module name is: logging_configuration
+2024-10-27 19:39:08 IST +0530 - root - DEBUG - Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration']
+2024-10-27 19:39:08 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration/__init__.py
+2024-10-27 19:39:08 IST +0530 - root - DEBUG - Module name is: __main__
+2024-10-27 19:39:08 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/main_rounding_to_X_significant_figures.py
+2024-10-27 19:41:35 IST +0530 - root - DEBUG - Module name is: logging_configuration
+2024-10-27 19:41:35 IST +0530 - root - DEBUG - Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration']
+2024-10-27 19:41:35 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration/__init__.py
+2024-10-27 19:41:35 IST +0530 - root - DEBUG - Module name is: __main__
+2024-10-27 19:41:35 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/main_rounding_to_X_significant_figures.py
+2024-10-27 19:41:35 IST +0530 - root - DEBUG - Rounding first_real_number=3.141592653589793 to 2 decimal places results in 3.14
+2024-10-27 19:41:35 IST +0530 - root - DEBUG - Rounding second_real_number=3.141592653589793e-05 to 2 decimal places results in 0.00
+2024-10-27 19:41:35 IST +0530 - root - DEBUG - Rounding second_real_number=3.141592653589793e-05 to 2 significant digits results in 3.1e-05
+2024-10-27 19:41:35 IST +0530 - root - DEBUG - Rounding second_real_number=3.141592653589793e-05 to 3 significant digits results in 3.14e-05
+2024-10-27 19:41:35 IST +0530 - root - DEBUG - Rounding third_natural_number=314159 to 3 significant digits results in 3.14e+05
+2024-10-27 19:41:35 IST +0530 - root - DEBUG - main()=None
+2024-10-27 19:50:10 IST +0530 - root - DEBUG - Module name is: logging_configuration
+2024-10-27 19:50:10 IST +0530 - root - DEBUG - Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration']
+2024-10-27 19:50:10 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration/__init__.py
+2024-10-27 19:50:10 IST +0530 - root - DEBUG - Module name is: __main__
+2024-10-27 19:50:10 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/main_aligning_strings_with_spaces.py
+2024-10-27 19:50:10 IST +0530 - root - DEBUG - Left aligned string literal: [Apple               ]
+2024-10-27 19:50:10 IST +0530 - root - DEBUG - Left aligned string literal: [Apple                                   ]
+2024-10-27 19:50:10 IST +0530 - root - DEBUG - Center aligned string literal: [       Apple        ]
+2024-10-27 19:50:10 IST +0530 - root - DEBUG - Right aligned string literal: [               Apple]
+2024-10-27 19:50:10 IST +0530 - root - DEBUG - Left aligned string literal: [Apple                         ]
+2024-10-27 19:50:10 IST +0530 - root - DEBUG - Center aligned string literal: [            Apple             ]
+2024-10-27 19:50:10 IST +0530 - root - DEBUG - Right aligned string literal: [                         Apple]
+2024-10-27 19:50:10 IST +0530 - root - DEBUG - main()=None
+2024-10-27 20:00:42 IST +0530 - root - DEBUG - Module name is: logging_configuration
+2024-10-27 20:00:42 IST +0530 - root - DEBUG - Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration']
+2024-10-27 20:00:42 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration/__init__.py
+2024-10-27 20:00:42 IST +0530 - root - DEBUG - Module name is: __main__
+2024-10-27 20:00:42 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/main_aligning_strings_using_other_characters.py
+2024-10-27 20:00:42 IST +0530 - root - DEBUG - Left aligned string literal: [Apple---------------]
+2024-10-27 20:00:42 IST +0530 - root - DEBUG - Left aligned string literal: [Apple+++++++++++++++++++++++++++++++++++]
+2024-10-27 20:00:42 IST +0530 - root - DEBUG - Left aligned string literal: [Apple???????????????]
+2024-10-27 20:00:42 IST +0530 - root - DEBUG - Center aligned string literal: [-------Apple--------]
+2024-10-27 20:00:42 IST +0530 - root - DEBUG - Right aligned string literal: [---------------Apple]
+2024-10-27 20:00:42 IST +0530 - root - DEBUG - Left aligned string literal: [Apple-------------------------]
+2024-10-27 20:00:42 IST +0530 - root - DEBUG - Center aligned string literal: [------------Apple-------------]
+2024-10-27 20:00:42 IST +0530 - root - DEBUG - Right aligned string literal: [-------------------------Apple]
+2024-10-27 20:00:42 IST +0530 - root - DEBUG - main()=None
+2024-10-27 20:04:46 IST +0530 - root - DEBUG - Module name is: logging_configuration
+2024-10-27 20:04:46 IST +0530 - root - DEBUG - Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration']
+2024-10-27 20:04:46 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration/__init__.py
+2024-10-27 20:04:46 IST +0530 - root - DEBUG - Module name is: __main__
+2024-10-27 20:04:46 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/main_inserting_commas_into_large_numbers.py
+2024-10-27 20:04:46 IST +0530 - root - DEBUG - One hundred million: 100,000,000
+2024-10-27 20:04:46 IST +0530 - root - DEBUG - Ten billion: 10,000,000,000
+2024-10-27 20:04:46 IST +0530 - root - DEBUG - main()=None
+2024-10-27 20:12:47 IST +0530 - root - DEBUG - Module name is: logging_configuration
+2024-10-27 20:12:47 IST +0530 - root - DEBUG - Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration']
+2024-10-27 20:12:47 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration/__init__.py
+2024-10-27 20:12:47 IST +0530 - root - DEBUG - Module name is: __main__
+2024-10-27 20:12:47 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/main_formatting_datetime.py
+2024-10-27 20:12:47 IST +0530 - root - DEBUG - Today is today=datetime.datetime(2024, 10, 27, 20, 12, 47, 74937)
+2024-10-27 20:12:47 IST +0530 - root - DEBUG - Today is 2024-10-27 20:12:47  
+2024-10-27 20:12:47 IST +0530 - root - DEBUG - main()=None
+2024-10-27 20:18:07 IST +0530 - root - DEBUG - Module name is: logging_configuration
+2024-10-27 20:18:07 IST +0530 - root - DEBUG - Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration']
+2024-10-27 20:18:07 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration/__init__.py
+2024-10-27 20:18:07 IST +0530 - root - DEBUG - Module name is: __main__
+2024-10-27 20:18:07 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/main_triple_quoted_strings.py
+2024-10-27 20:18:07 IST +0530 - root - DEBUG - a_string_literal='\n    Apple   one_hundred=100\n    Orange      two_hundred=200\n    \n    Pear            (one_hundred + two_hundred)=300\n    \n    Durian\n    \n    Pineapple\n    '
+2024-10-27 20:18:07 IST +0530 - root - DEBUG - main()=None
+2024-10-27 20:30:24 IST +0530 - root - DEBUG - Module name is: logging_configuration
+2024-10-27 20:30:24 IST +0530 - root - DEBUG - Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration']
+2024-10-27 20:30:24 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration/__init__.py
+2024-10-27 20:30:24 IST +0530 - root - DEBUG - Module name is: __main__
+2024-10-27 20:30:24 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/main_formatting_using_percentage.py
+2024-10-27 20:30:24 IST +0530 - root - DEBUG - My name is "Tom" and I am "30" years old.
+2024-10-27 20:30:24 IST +0530 - root - DEBUG - My name is "Tom" and I am "30" years old.
+2024-10-27 20:30:24 IST +0530 - root - DEBUG - My name is "Bob" and I am "40" years old.
+2024-10-27 20:30:24 IST +0530 - root - DEBUG - My name is "Jerry" and I am "50" years old.
+2024-10-27 20:30:24 IST +0530 - root - DEBUG - main()=None
+2024-10-27 22:37:21 IST +0530 - root - DEBUG - Module name is: logging_configuration
+2024-10-27 22:37:21 IST +0530 - root - DEBUG - Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration']
+2024-10-27 22:37:21 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration/__init__.py
+2024-10-27 22:37:21 IST +0530 - root - DEBUG - Module name is: __main__
+2024-10-27 22:37:21 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/main_formatting_using_format_function.py
+2024-10-27 22:37:21 IST +0530 - root - DEBUG - My name is 'Tom', and my age is '30'
+2024-10-27 22:37:21 IST +0530 - root - DEBUG - main()=None
+2024-10-27 22:38:15 IST +0530 - root - DEBUG - Module name is: logging_configuration
+2024-10-27 22:38:15 IST +0530 - root - DEBUG - Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration']
+2024-10-27 22:38:15 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/logging_configuration/__init__.py
+2024-10-27 22:38:15 IST +0530 - root - DEBUG - Module name is: __main__
+2024-10-27 22:38:15 IST +0530 - root - DEBUG - File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-www.youtube.com/Python-With-Liu/Videos/8-Things-I-Never-Knew-About-Formatted-Strings-In-Python-Recently/src/main_formatting_using_format_function.py
+2024-10-27 22:38:15 IST +0530 - root - DEBUG - My name is 'Tom', and my age is '30'
+2024-10-27 22:38:15 IST +0530 - root - DEBUG - My name is "Tom", and my age is "30"
+2024-10-27 22:38:15 IST +0530 - root - DEBUG - My name is "Jerry", and my age is "40"
+2024-10-27 22:38:15 IST +0530 - root - DEBUG - My name is "Spike", and my age is "50"
+2024-10-27 22:38:15 IST +0530 - root - DEBUG - main()=None
